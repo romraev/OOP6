@@ -6,8 +6,6 @@ import java.util.Scanner;
 
 public class Order {
 
-    private Scanner scanner = new Scanner(System.in);
-
     private String clientName;
     private String product;
     private int qnt;
